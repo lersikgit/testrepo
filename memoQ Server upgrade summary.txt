@@ -1,0 +1,4 @@
+Migration of memoQ Server from 9.5.8 to 9.5.11
+Backup at 'c:\memoqserverbackup\v9.5.8-2020-11-18!16-29-04'
+
+
