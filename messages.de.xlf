@@ -1,0 +1,3073 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="de" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="8807722618432376624" datatype="html">
+        <source>Ja</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/common/boolean.option.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5982204146953564471" datatype="html">
+        <source>Nein</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/common/boolean.option.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7624133960269641605" datatype="html">
+        <source>Abbrechen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/editor/filter-editor.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/remove/filter-remove.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/save/filter-save.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/layout/modal-dialog/modal-dialog.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5141539165949710164" datatype="html">
+        <source>Anwenden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/editor/filter-editor.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7654682940223319043" datatype="html">
+        <source>Von</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/editor/filter-editor.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/incapacity-to-work/incapacity-to-work.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6929482153158014000" datatype="html">
+        <source>Bis</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/editor/filter-editor.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/incapacity-to-work/incapacity-to-work.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5385520446874233488" datatype="html">
+        <source>Jahr: <x id="INTERPOLATION"/> (wird jährlich aktualisiert)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/editor/filter-editor.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1835980142383789603" datatype="html">
+        <source>Filter bearbeiten: <x id="PH" equiv-text="this.appliedFilter.key}`"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/editor/filter-editor.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4919866059466070607" datatype="html">
+        <source>Neuen Filter erstellen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/editor/filter-editor.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4580399730639224598" datatype="html">
+        <source>Löschen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/remove/filter-remove.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-date/calendar-portal/calendar-portal.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7625873766247560944" datatype="html">
+        <source>Filter löschen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/remove/filter-remove.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/data-filter.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3203127472091314835" datatype="html">
+        <source>Möchten Sie den Filter <x id="START_TAG_STRONG" ctype="x-strong"/><x id="INTERPOLATION"/><x id="CLOSE_TAG_STRONG" ctype="x-strong"/> wirklich löschen?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/remove/filter-remove.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2854123663314832793" datatype="html">
+        <source>Speichern</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/save/filter-save.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8504971723398700615" datatype="html">
+        <source>Geben Sie den Filternamen ein</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/save/filter-save.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3403856654287617144" datatype="html">
+        <source>Filter umbenennen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/save/filter-save.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/data-filter.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3900646148180672202" datatype="html">
+        <source>Filter speichern</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/save/filter-save.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/data-filter.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="293335244437328005" datatype="html">
+        <source>Keine Filter verfügbar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/select/data-filter-select.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6999411087089765284" datatype="html">
+        <source>Gespeicherten Filter wählen...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/select/data-filter-select.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8578338172663990039" datatype="html">
+        <source>Ungespeicherter Filter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/component/select/data-filter-select.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8829497237648100098" datatype="html">
+        <source>Filter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/data-filter.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7081753458857507682" datatype="html">
+        <source>Änderungen verwerfen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/data-filter.component.html</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/file-preview/file-preview-portal.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4668229613641280742" datatype="html">
+        <source>Benutzerdefiniert</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/data/date-filter-type.enum.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2403093428938959397" datatype="html">
+        <source>Laufendes Jahr</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/data/date-filter-type.enum.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="341627160700311178" datatype="html">
+        <source>Letztes Jahr</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/data/date-filter-type.enum.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="791518890383003043" datatype="html">
+        <source>Bitte wählen Sie einen Namen, der noch nicht existiert.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/data-filter/validator/duplicate.validator.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2684361953347143573" datatype="html">
+        <source>Ein Fehler ist aufgetreten</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/error-modal/error-modal.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3248741295108753338" datatype="html">
+        <source>Der Betrag ist ungültig.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-currency/form-currency.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4609106925336303462" datatype="html">
+        <source>Heute</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-date/calendar-portal/calendar-portal.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7362532115492002196" datatype="html">
+        <source>TT.MM.JJJJ</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-date/form-date.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3909424588175678483" datatype="html">
+        <source>Das Datum ist ungültig.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-date/form-date.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6943524814373353369" datatype="html">
+        <source>Dateien auswählen oder hinein ziehen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/file-button/file-button.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4664393847216803123" datatype="html">
+        <source>Nicht gespeicherte Änderungen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/file-preview/file-preview-portal.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="588531332314983978" datatype="html">
+        <source>Möchten Sie die Ansicht wirklich verlassen ohne die Änderungen zu übernehmen?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/file-preview/file-preview-portal.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7456227597561668812" datatype="html">
+        <source>Es kann nur eine Datei auf einmal hochgeladen werden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/form-file.component.ts</context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4522814171478709315" datatype="html">
+        <source>Datei &quot;<x id="PH" equiv-text="file.name"/>&quot; wird ignoriert</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/form-file.component.ts</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2510348785421862285" datatype="html">
+        <source>Datei &quot;<x id="PH" equiv-text="file.name"/>&quot; konnte nicht gelesen werden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/form-file.component.ts</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8457956615746442347" datatype="html">
+        <source>Datei &quot;<x id="PH" equiv-text="fileName}&quot; wurde bereits hinzugefügt`"/>&quot; wurde bereits hinzugefügt</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/form-file.component.ts</context>
+          <context context-type="linenumber">178</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6310764893284969128" datatype="html">
+        <source>Datei &quot;<x id="PH" equiv-text="fileName}&quot; ist zu gross`"/>&quot; ist zu gross</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/form-file.component.ts</context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4338396462368906239" datatype="html">
+        <source>Datei &quot;<x id="PH" equiv-text="fileName}&quot; ist von einem unerlaubten Typ`"/>&quot; ist von einem unerlaubten Typ</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/form-file.component.ts</context>
+          <context context-type="linenumber">186</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7173226208953511507" datatype="html">
+        <source>Es wurde bereits eine Datei hochgeladen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/form-file.component.ts</context>
+          <context context-type="linenumber">190</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3859810122576101801" datatype="html">
+        <source>Es wurden bereits <x id="PH" equiv-text="this.maxCount"/> Dateien hochgeladen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-file/form-file.component.ts</context>
+          <context context-type="linenumber">190</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="173149183117945576" datatype="html">
+        <source>Die Zahl ist ungültig.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-number/form-number.component.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4192902478338974861" datatype="html">
+        <source>Keine Treffer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-search/form-search.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2305510334014376226" datatype="html">
+        <source>hh:mm</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-time/form-time.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7044540485826279499" datatype="html">
+        <source>Die Zeit ist ungültig.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/form-time/form-time.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5986717961634224971" datatype="html">
+        <source>Keine Optionen verfügbar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/shared/abstract-select.directive.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8269876121033605265" datatype="html">
+        <source>Bitte geben Sie einen gültigen Wert ein.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8906112067544268748" datatype="html">
+        <source>Es sind maximal <x id="PH" equiv-text="length"/> Zeichen erlaubt.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7750933695865758939" datatype="html">
+        <source>Die Zahl darf nicht kleiner als <x id="PH" equiv-text="minValue"/> sein.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">shared/data-check/default-notice.enum.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6943702584154999982" datatype="html">
+        <source>Die Zahl darf nicht grösser als <x id="PH" equiv-text="maxValue"/> sein.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">shared/data-check/default-notice.enum.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5803998687212418010" datatype="html">
+        <source>Die Zahl muss zwischen <x id="PH" equiv-text="minValue"/> und <x id="PH_1" equiv-text="maxValue"/> liegen.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3160965744883577297" datatype="html">
+        <source>Das Datum darf nicht vor dem <x id="PH" equiv-text="minDate.toPrettyString()} liegen.`"/> liegen.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">112,113</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">shared/data-check/default-notice.enum.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5443839527826845005" datatype="html">
+        <source>Das Datum darf nicht nach dem <x id="PH" equiv-text="maxDate.toPrettyString()} liegen.`"/> liegen.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">140,141</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">shared/data-check/default-notice.enum.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3951745688066161395" datatype="html">
+        <source>Die E-Mail-Adresse ist ungültig.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8157445791136654020" datatype="html">
+        <source>Die IBAN ist ungültig.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7646375555731041481" datatype="html">
+        <source>Die Sozialversicherungsnummer ist ungültig.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2382075419343212858" datatype="html">
+        <source>Die Telefonnummer ist ungültig.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/form/validators.ts</context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1077477254309791887" datatype="html">
+        <source>Automatische Abmeldung</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/session-timeout-modal-dialog/session-timeout-modal-dialog.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/session.service.ts</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7646403382117862200" datatype="html">
+        <source>Weiterarbeiten</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/session-timeout-modal-dialog/session-timeout-modal-dialog.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2361265238320887165" datatype="html">
+        <source>Abmelden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/session-timeout-modal-dialog/session-timeout-modal-dialog.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/app-header/logout-button/logout-button.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2171710516568581909" datatype="html">
+        <source>Sie werden in {} Minuten automatisch abgemeldet. Möchten Sie weiterarbeiten?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/component/session-timeout-modal-dialog/session-timeout-modal-dialog.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1907015897505457162" datatype="html">
+        <source>Andorra</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1554974292030774878" datatype="html">
+        <source>Vereinigte Arab. Emirate</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1209826884150356967" datatype="html">
+        <source>Afghanistan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5935230880994974260" datatype="html">
+        <source>Antigua und Barbuda</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3021673558311985385" datatype="html">
+        <source>Anguilla</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5105743101147077460" datatype="html">
+        <source>Albanien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7149356836340638264" datatype="html">
+        <source>Armenien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6217641021869617269" datatype="html">
+        <source>Antillen, Niederl.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7814573200614743943" datatype="html">
+        <source>Angola</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1888955225001257087" datatype="html">
+        <source>Antarktis</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9005330189144979548" datatype="html">
+        <source>Argentinien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4277664299656906802" datatype="html">
+        <source>Amerikanisch-Samoa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4692073359600729075" datatype="html">
+        <source>Österreich</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="937965715451813558" datatype="html">
+        <source>Australien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4409995852433618965" datatype="html">
+        <source>Aruba</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6011113427639875099" datatype="html">
+        <source>Aland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8595281375556297325" datatype="html">
+        <source>Aserbaidschan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="928124047866605608" datatype="html">
+        <source>Bosnien und Herzegowina</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1075324242640516651" datatype="html">
+        <source>Barbados</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7586179551119829690" datatype="html">
+        <source>Bangladesh</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6068026124594030224" datatype="html">
+        <source>Belgien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2851635003262201259" datatype="html">
+        <source>Burkina Faso</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1766097903700928989" datatype="html">
+        <source>Bulgarien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4493078792980020324" datatype="html">
+        <source>Bahrain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6242941829685502770" datatype="html">
+        <source>Burundi</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="615066566557540567" datatype="html">
+        <source>Benin</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8242751107650357964" datatype="html">
+        <source>Saint-Barthélemy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4111466936456503227" datatype="html">
+        <source>Bermuda</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6884420559133272313" datatype="html">
+        <source>Brunei</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2358484200470268731" datatype="html">
+        <source>Bolivien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8754777603262412755" datatype="html">
+        <source>Bonaire, Sint Eustatius und Saba</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="312490117977916505" datatype="html">
+        <source>Brasilien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5530828807984079663" datatype="html">
+        <source>Bahamas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3404169924630177375" datatype="html">
+        <source>Bhutan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5120443720437993152" datatype="html">
+        <source>Bouvetinsel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="43190493453313100" datatype="html">
+        <source>Botswana</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5711745590261941552" datatype="html">
+        <source>Weissrussland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6597121833699637826" datatype="html">
+        <source>Belize</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7704217739770711949" datatype="html">
+        <source>Kanada</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2087121852364479152" datatype="html">
+        <source>Kokosinseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7139997792779421430" datatype="html">
+        <source>Kongo, Demokratische Republik</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7685191491746964485" datatype="html">
+        <source>Zentralafrikanische Republik</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2936831879661027312" datatype="html">
+        <source>Kongo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4901732320154802293" datatype="html">
+        <source>Schweiz</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8334578220766711886" datatype="html">
+        <source>Elfenbeinküste</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4707226329248294118" datatype="html">
+        <source>Cookinseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6268459440891516871" datatype="html">
+        <source>Chile</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7335859073179087782" datatype="html">
+        <source>Kamerun</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5134090110001463731" datatype="html">
+        <source>China</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2813939449728132289" datatype="html">
+        <source>Kolumbien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="852177379378387675" datatype="html">
+        <source>Costa Rica</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3823680787907946807" datatype="html">
+        <source>Serbien und Montenegro</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7451170202879959718" datatype="html">
+        <source>Kuba</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3408715939013012164" datatype="html">
+        <source>Kap Verde</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2768164925837860418" datatype="html">
+        <source>Curacao</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2060439225752162350" datatype="html">
+        <source>Weihnachtsinsel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4221802120856321772" datatype="html">
+        <source>Zypern</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5507712335916380210" datatype="html">
+        <source>Tschechische Republik</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2915277013095531577" datatype="html">
+        <source>Deutschland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2633824972286491960" datatype="html">
+        <source>Djibouti</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1598073513699003963" datatype="html">
+        <source>Dänemark</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9115400918128734980" datatype="html">
+        <source>Dominica</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="309752308860672043" datatype="html">
+        <source>Dominikanische Republik</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1590914526345164724" datatype="html">
+        <source>Algerien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3753386582290088847" datatype="html">
+        <source>Ecuador</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="338583078948566243" datatype="html">
+        <source>Estland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5546596423535536689" datatype="html">
+        <source>Ägypten</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7073827303630686208" datatype="html">
+        <source>Westsahara</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7489009008617420277" datatype="html">
+        <source>Eritrea</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3151621968236253085" datatype="html">
+        <source>Spanien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6405515553619643410" datatype="html">
+        <source>Äthiopien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2467330552346259446" datatype="html">
+        <source>Finnland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8510995217467564721" datatype="html">
+        <source>Fidschi</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5940412266178232893" datatype="html">
+        <source>Falklandinseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6768397158670521829" datatype="html">
+        <source>Mikronesien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8660202819690016644" datatype="html">
+        <source>Färöer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7424274321153164422" datatype="html">
+        <source>Frankreich</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5983400103251523316" datatype="html">
+        <source>Gabun</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4667896815547293958" datatype="html">
+        <source>Grossbritannien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4251019598823492681" datatype="html">
+        <source>Grenada</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6576856323526347644" datatype="html">
+        <source>Georgien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4256078021402817453" datatype="html">
+        <source>Französisch-Guayana</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6735707870737458688" datatype="html">
+        <source>Guernsey</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1217416635228213712" datatype="html">
+        <source>Ghana</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1425156311958935005" datatype="html">
+        <source>Gibraltar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2217424237386626786" datatype="html">
+        <source>Grönland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2150029881148712691" datatype="html">
+        <source>Gambia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3303718492506441789" datatype="html">
+        <source>Guinea</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8944103190235428172" datatype="html">
+        <source>Guadeloupe</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1958729174940318108" datatype="html">
+        <source>Äquatorialguinea</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6790946655402782838" datatype="html">
+        <source>Griechenland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5808995043000117641" datatype="html">
+        <source>Südgeorgien und die Südlichen Sandwichinseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2246799843509663005" datatype="html">
+        <source>Guatemala</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8003066830412119130" datatype="html">
+        <source>Guam</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9128896776453808891" datatype="html">
+        <source>Guinea-Bissau</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="225673493830534206" datatype="html">
+        <source>Guayana</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6007723174639904967" datatype="html">
+        <source>Hongkong</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4443149038895669341" datatype="html">
+        <source>Heard und McDonaldinseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5032618727171063903" datatype="html">
+        <source>Honduras</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="267640495169983490" datatype="html">
+        <source>Kroatien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2845697602867633165" datatype="html">
+        <source>Haiti</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1739726084981880242" datatype="html">
+        <source>Ungarn</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3158927288328121049" datatype="html">
+        <source>Indonesien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4355182761235974826" datatype="html">
+        <source>Irland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7015687759738910427" datatype="html">
+        <source>Israel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4454807418420920063" datatype="html">
+        <source>Insel Man</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8406273605666531638" datatype="html">
+        <source>Indien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6212383887067796371" datatype="html">
+        <source>Britisches Territorium im Indischen Ozean</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7928274211021584899" datatype="html">
+        <source>Irak</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="362851695433968241" datatype="html">
+        <source>Iran</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4622289971066938286" datatype="html">
+        <source>Island</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3350268034329295179" datatype="html">
+        <source>Italien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="53893825252139188" datatype="html">
+        <source>Jersey</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7281085036026147532" datatype="html">
+        <source>Jamaika</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9182066945119406344" datatype="html">
+        <source>Jordanien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="80663871075536039" datatype="html">
+        <source>Japan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3842231331912630624" datatype="html">
+        <source>Kenia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2995467176060871934" datatype="html">
+        <source>Kirgisistan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5046137632866458831" datatype="html">
+        <source>Kambodscha</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3050899002311904259" datatype="html">
+        <source>Kiribati</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5426880582940671143" datatype="html">
+        <source>Komoren</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4466617012808488861" datatype="html">
+        <source>St. Kitts und Nevis</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6185974288757792753" datatype="html">
+        <source>Kosovo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9130159398172629694" datatype="html">
+        <source>Nordkorea</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6358400344177261635" datatype="html">
+        <source>Korea Republik</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6639775332361598247" datatype="html">
+        <source>Kuwait</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7170745710732848454" datatype="html">
+        <source>Kaimaninseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7416491925034601648" datatype="html">
+        <source>Kasachstan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4473457771422323359" datatype="html">
+        <source>Laos</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7147619246703360338" datatype="html">
+        <source>Libanon</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6539861404213606123" datatype="html">
+        <source>St. Lucia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3917311667237336403" datatype="html">
+        <source>Liechtenstein</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7766766928661785123" datatype="html">
+        <source>Sri Lanka</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7442502921201826082" datatype="html">
+        <source>Liberia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1826925740451482221" datatype="html">
+        <source>Lesotho</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6021705766355597663" datatype="html">
+        <source>Litauen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2693055807398849483" datatype="html">
+        <source>Luxemburg</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4571832356602143987" datatype="html">
+        <source>Lettland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5583493965910073834" datatype="html">
+        <source>Libyen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1148273695853694247" datatype="html">
+        <source>Marokko</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1736943888981108041" datatype="html">
+        <source>Monaco</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5299930029890048984" datatype="html">
+        <source>Moldawien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8310342568647317562" datatype="html">
+        <source>Montenegro</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1026812130335618747" datatype="html">
+        <source>Saint-Martin (franz. Teil)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2697618870374955861" datatype="html">
+        <source>Madagaskar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3088096374252071635" datatype="html">
+        <source>Marshallinseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6028734159846518220" datatype="html">
+        <source>Mazedonien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5259023098228234423" datatype="html">
+        <source>Mali</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5816956679305721210" datatype="html">
+        <source>Myanmar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2541014653407078342" datatype="html">
+        <source>Mongolei</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7035373772684161588" datatype="html">
+        <source>Macau</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7040826053663899598" datatype="html">
+        <source>Nördliche Marianen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9049018620009652707" datatype="html">
+        <source>Martinique</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="733098467150786050" datatype="html">
+        <source>Mauretanien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1945455710397155994" datatype="html">
+        <source>Montserrat</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7731013350359057223" datatype="html">
+        <source>Malta</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1030476891035559598" datatype="html">
+        <source>Mauritius</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2998164486492449255" datatype="html">
+        <source>Malediven</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5814468296071715981" datatype="html">
+        <source>Malawi</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8668105217274151948" datatype="html">
+        <source>Mexiko</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="284282390173344035" datatype="html">
+        <source>Malaysia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3880404895547739690" datatype="html">
+        <source>Mosambik</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5698737171438719386" datatype="html">
+        <source>Namibia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7014346202168259964" datatype="html">
+        <source>Neukaledonien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="780371405648733035" datatype="html">
+        <source>Niger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">169</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="345086398674162120" datatype="html">
+        <source>Norfolkinsel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2312905197006708918" datatype="html">
+        <source>Nigeria</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">171</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1562013926672647714" datatype="html">
+        <source>Nicaragua</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="32522745793280327" datatype="html">
+        <source>Niederlande</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4154148550409412117" datatype="html">
+        <source>Norwegen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5857558127981009083" datatype="html">
+        <source>Nepal</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="217956830164259077" datatype="html">
+        <source>Nauru</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2444515862101250781" datatype="html">
+        <source>Niue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8292979744739150025" datatype="html">
+        <source>Neuseeland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">178</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4719742396933932796" datatype="html">
+        <source>Oman</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7803448958935133459" datatype="html">
+        <source>Panama</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">180</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2132839256314048281" datatype="html">
+        <source>Peru</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">181</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6531551896284697117" datatype="html">
+        <source>Französisch-Polynesien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1966253144136490390" datatype="html">
+        <source>Papua-Neuguinea</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">183</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6410126489324825348" datatype="html">
+        <source>Philippinen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9146974172614086551" datatype="html">
+        <source>Pakistan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">185</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4859804121149272105" datatype="html">
+        <source>Polen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">186</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5789436760498629537" datatype="html">
+        <source>Saint-Pierre und Miquelon</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8486794710119327355" datatype="html">
+        <source>Pitcairninseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">188</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5121305715179574366" datatype="html">
+        <source>Puerto Rico</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4090361173167989833" datatype="html">
+        <source>Palästina</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">190</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1825932113518847029" datatype="html">
+        <source>Portugal</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="680993875033620982" datatype="html">
+        <source>Palau</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">192</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5162288429120066886" datatype="html">
+        <source>Paraguay</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">193</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8884008684136621484" datatype="html">
+        <source>Qatar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">194</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6493267593380962322" datatype="html">
+        <source>Réunion</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">195</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8154253024205668568" datatype="html">
+        <source>Rumänien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5594651972803829796" datatype="html">
+        <source>Serbien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6587929129963337629" datatype="html">
+        <source>Russland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">198</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1586028726970845686" datatype="html">
+        <source>Rwanda</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">199</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="784834090316445059" datatype="html">
+        <source>Saudi-Arabien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="890585490253734891" datatype="html">
+        <source>Salomonen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">201</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7325965390987069253" datatype="html">
+        <source>Seychellen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5926828147233586606" datatype="html">
+        <source>Sudan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">203</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4651871178018992718" datatype="html">
+        <source>Schweden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3042167625513204108" datatype="html">
+        <source>Singapur</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">205</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3476026137175894313" datatype="html">
+        <source>St. Helena</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">206</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3338843776961100821" datatype="html">
+        <source>Slowenien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">207</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6821268078069605383" datatype="html">
+        <source>Svalbard + Jan Mayen Ins</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">208</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2920072526031883188" datatype="html">
+        <source>Slowakei</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">209</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3710133024160860873" datatype="html">
+        <source>Sierra Leone</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">210</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4251280664350448901" datatype="html">
+        <source>San Marino</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">211</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5895030245261923484" datatype="html">
+        <source>Senegal</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">212</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="661727793029310940" datatype="html">
+        <source>Somalia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">213</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1593621940419631017" datatype="html">
+        <source>Surinam</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6667532107984052559" datatype="html">
+        <source>Südsudan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">215</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5673966263981856014" datatype="html">
+        <source>Sao Tome und Principe</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">216</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8496313228903628689" datatype="html">
+        <source>El Salvador</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">217</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5048199600747530211" datatype="html">
+        <source>Sint Maarten (niederl. Teil)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">218</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8963765004551378837" datatype="html">
+        <source>Syrien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">219</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9033285898369492375" datatype="html">
+        <source>Swaziland</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">220</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="106469514053119881" datatype="html">
+        <source>Turks- und Caicosinseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">221</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2712731271375632161" datatype="html">
+        <source>Tschad</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">222</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8621823322151707476" datatype="html">
+        <source>Französische Süd- und Antarktisgebiete</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">223</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7012227002133419149" datatype="html">
+        <source>Togo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">224</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2040543873210054611" datatype="html">
+        <source>Thailand</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">225</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1750898208509244429" datatype="html">
+        <source>Tadschikistan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">226</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1112497162590853943" datatype="html">
+        <source>Tokelau</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">227</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3610719191854545582" datatype="html">
+        <source>Osttimor</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">228</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9141606215802528913" datatype="html">
+        <source>Turkmenistan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">229</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40102132471363586" datatype="html">
+        <source>Tunesien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">230</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6930151682144775692" datatype="html">
+        <source>Tonga</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">231</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9082750726833893252" datatype="html">
+        <source>Türkei</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">232</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6712279697121385198" datatype="html">
+        <source>Trinidad und Tobago</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">233</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3086562963920355958" datatype="html">
+        <source>Tuvalu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">234</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1812990033467917873" datatype="html">
+        <source>Taiwan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">235</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4089471109205194438" datatype="html">
+        <source>Tansania</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">236</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4346283537747431562" datatype="html">
+        <source>Ukraine</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">237</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7627070236552679953" datatype="html">
+        <source>Uganda</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">238</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8621895500555259136" datatype="html">
+        <source>Kleinere Inselbesitzungen der Vereinigten Staaten</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">239</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6147331029553907859" datatype="html">
+        <source>Ver. Staaten N.- Amerika</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">240</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="976142842851961456" datatype="html">
+        <source>Uruguay</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">241</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5291189904092992131" datatype="html">
+        <source>Usbekistan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">242</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5379361021002512512" datatype="html">
+        <source>Vatikanstadt</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">243</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5587834839668156078" datatype="html">
+        <source>St. Vincent und Grenadines</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">244</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8420291181849337180" datatype="html">
+        <source>Venezuela</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">245</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6251946743221034166" datatype="html">
+        <source>Jungfern-Inseln Brit.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">246</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3463535086763818137" datatype="html">
+        <source>Virginische Inseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">247</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1715874233028631360" datatype="html">
+        <source>Vietnam</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3911861600857028021" datatype="html">
+        <source>Vanuatu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">249</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7908211735299175511" datatype="html">
+        <source>Wallis + Futuna Inseln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">250</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1072367911824529474" datatype="html">
+        <source>Samoa-West</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">251</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3684397411365760159" datatype="html">
+        <source>Republik Kosovo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8933856341505994437" datatype="html">
+        <source>Übrige oder Unbekannt</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">253</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="575604127266104148" datatype="html">
+        <source>Unbekannt</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">254</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2231993128011427089" datatype="html">
+        <source>Staatenlos</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">255</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5144971260883559528" datatype="html">
+        <source>Yemen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6461205178975913145" datatype="html">
+        <source>Mayotte</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">257</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2785420013659383236" datatype="html">
+        <source>Südafrika</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">258</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1424712818789206941" datatype="html">
+        <source>Zambia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">259</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7494195300262695619" datatype="html">
+        <source>Simbabwe</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/country.enum.ts</context>
+          <context context-type="linenumber">260</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7595747576974676670" datatype="html">
+        <source>Jan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8044499984033738120" datatype="html">
+        <source>Januar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4916040996255005712" datatype="html">
+        <source>Feb</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7029265543969180461" datatype="html">
+        <source>Februar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8239526046782399138" datatype="html">
+        <source>Mär</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6007938108488521736" datatype="html">
+        <source>März</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5507326650332881991" datatype="html">
+        <source>Apr</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1809521303476565743" datatype="html">
+        <source>April</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2219446267498213550" datatype="html">
+        <source>Mai</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2113470244260512015" datatype="html">
+        <source>Jun</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5829316612883860294" datatype="html">
+        <source>Juni</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="53176888553719239" datatype="html">
+        <source>Jul</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1899381576479788257" datatype="html">
+        <source>Juli</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5648574669404659458" datatype="html">
+        <source>Aug</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3984618989093293779" datatype="html">
+        <source>August</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4354095055982674918" datatype="html">
+        <source>Sep</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5872622085239011307" datatype="html">
+        <source>September</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7153587246015404529" datatype="html">
+        <source>Okt</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1280165460303116228" datatype="html">
+        <source>Oktober</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8269261039058575292" datatype="html">
+        <source>Nov</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1109977718843277527" datatype="html">
+        <source>November</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3700027590335761636" datatype="html">
+        <source>Dez</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3022543557445694316" datatype="html">
+        <source>Dezember</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/month.enum.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4197236438302165051" datatype="html">
+        <source>Mo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5270327487333064698" datatype="html">
+        <source>Montag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5908714162235067735" datatype="html">
+        <source>Di</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2030976869636220684" datatype="html">
+        <source>Dienstag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7915175571113450409" datatype="html">
+        <source>Mi</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4990093896014871902" datatype="html">
+        <source>Mittwoch</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6408870772587289662" datatype="html">
+        <source>Do</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9039993581689232399" datatype="html">
+        <source>Donnerstag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8598262708800132669" datatype="html">
+        <source>Fr</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1560223753499023916" datatype="html">
+        <source>Freitag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="569007902695332072" datatype="html">
+        <source>Sa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3204076460615791312" datatype="html">
+        <source>Samstag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2812565712576597206" datatype="html">
+        <source>So</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3155764298718431288" datatype="html">
+        <source>Sonntag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/enum/weekday.enum.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7631701977232347351" datatype="html">
+        <source>Es ist ein unerwarteter Fehler aufgetreten.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/frontend-error-handler.service.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5889607835368180076" datatype="html">
+        <source>Neu laden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/frontend-error-handler.service.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2611897888972636441" datatype="html">
+        <source>Sie können abbrechen und versuchen, ungesicherte Daten zu speichern und dann die Applikation neu laden. Alternativ können Sie die Applikation sofort neu laden, wobei aber alle ungesicherten Daten verloren gehen.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/frontend-error-handler.service.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="141514915189665195" datatype="html">
+        <source>Abmeldung von <x id="PH" equiv-text="getAppName()}`"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/session.service.ts</context>
+          <context context-type="linenumber">131,132</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/app-header/logout-button/logout-button.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2100298409679823741" datatype="html">
+        <source>Sie wurden nach <x id="PH" equiv-text="sessionTimeoutMinutes"/> Minuten Inaktivität automatisch abgemeldet.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/session.service.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6501384916685179123" datatype="html">
+        <source>Nicht gespeicherte Änderungen wurden verworfen.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/session.service.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5315844808871024321" datatype="html">
+        <source>Sie haben sich erfolgreich abgemeldet.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/session.service.ts</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/app-header/logout-button/logout-button.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5707087902721648109" datatype="html">
+        <source>Zurück zu <x id="PH" equiv-text="getAppName()}`"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/service/session.service.ts</context>
+          <context context-type="linenumber">137,138</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/app-header/logout-button/logout-button.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8443753921190620223" datatype="html">
+        <source>Fehler-ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/library/src/lib/util/format-backend-error.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7012399360048890432" datatype="html">
+        <source>Es sind minimal <x id="PH" equiv-text="placeholders.min"/> Element(e) erforderlich.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">shared/data-check/default-notice.enum.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5365784218260613110" datatype="html">
+        <source>Es sind maximal <x id="PH" equiv-text="placeholders.max"/> Element(e) erlaubt.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">shared/data-check/default-notice.enum.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6652353143863003817" datatype="html">
+        <source>Die minimale Länge beträgt <x id="PH" equiv-text="placeholders.min"/> Zeichen.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">shared/data-check/default-notice.enum.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6023412239466865149" datatype="html">
+        <source>Die maximale Länge beträgt <x id="PH" equiv-text="placeholders.max"/> Zeichen.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">shared/data-check/default-notice.enum.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2387945729178938819" datatype="html">
+        <source>Parameter &quot;<x id="PH" equiv-text="paramName"/>&quot; hat einen ungültigen Wert.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/bootstrap/query-param/invalid-query-param-value.error.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7552501076237080328" datatype="html">
+        <source>Ihre Dokumente werden übermittelt...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/confirmation/document-confirmation.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3573667408146385253" datatype="html">
+        <source>Ihr Dokument wird übermittelt...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/confirmation/document-confirmation.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1580910847409256156" datatype="html">
+        <source>Ihre Dokumente wurden erfolgreich übermittelt.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/confirmation/document-confirmation.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2319704180527193569" datatype="html">
+        <source>Ihr Dokument wurde erfolgreich übermittelt.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/confirmation/document-confirmation.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6136018237426426526" datatype="html">
+        <source>Prozess neu starten</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/confirmation/document-confirmation.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5867694624664367675" datatype="html">
+        <source>Die Übermittlung ist fehlgeschlagen.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/confirmation/document-confirmation.component.html</context>
+          <context context-type="linenumber">23,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3622705769541873039" datatype="html">
+        <source>Erneut versuchen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/confirmation/document-confirmation.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5569979104713685943" datatype="html">
+        <source>Dokumente übermitteln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/entry/document-entry.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4392993924409588244" datatype="html">
+        <source>Absenden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/footer/entry-footer.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4159422374575965247" datatype="html">
+        <source>Nach oben</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/footer/entry-footer.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8046264231460093358" datatype="html">
+        <source>Alle Rechte vorbehalten.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/footer/entry-footer.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="743820818685565716" datatype="html">
+        <source>Art des Dokuments</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/document-item.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5497611627222305680" datatype="html">
+        <source>Arbeitsunfähigkeit hinzufügen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/document-item.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3959614187893825597" datatype="html">
+        <source>Name des Dokuments</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/document-item.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6894015336515503640" datatype="html">
+        <source>Dokument <x id="PH" equiv-text="this.itemIndex()"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/document-item.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7426543169755652935" datatype="html">
+        <source>Dokument entfernen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/document-item.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4617643486699389980" datatype="html">
+        <source>Entfernen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/document-item.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2562735121313916825" datatype="html">
+        <source>Möchten Sie das Dokument wirklich entfernen?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/document-item.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8124451201840566994" datatype="html">
+        <source>Prozent</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/incapacity-to-work/incapacity-to-work.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4703556111307906644" datatype="html">
+        <source>Arbeitsunfähigkeit <x id="PH" equiv-text="this.itemIndex()"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/item/incapacity-to-work/incapacity-to-work.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2365875530376677238" datatype="html">
+        <source>Weitere Dokumente hochladen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/list/document-list.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5706137307668855746" datatype="html">
+        <source>Dokumente hochladen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/list/document-list.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="451516428875416779" datatype="html">
+        <source>Weitere Arztzeugnisse und andere relevante Dokumente</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/list/document-list.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2885515786871384088" datatype="html">
+        <source>Arztzeugnisse und andere relevante Dokumente</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/list/document-list.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3288498885762699760" datatype="html">
+        <source>Dokument auswählen oder hineinziehen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/list/document-list.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8640870080727758024" datatype="html">
+        <source>Dokument auswählen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/document/list/document-list.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2927472629321946832" datatype="html">
+        <source>Dokumente für Unfall oder Krankheit?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/incident-type/incident-type.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3032136904121424169" datatype="html">
+        <source>Personalien</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6278737578310385428" datatype="html">
+        <source>Vorname</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3112560000750552205" datatype="html">
+        <source>Nachname</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="581188854784162034" datatype="html">
+        <source>PLZ</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="43743761952794249" datatype="html">
+        <source>Wohnort</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8158385069489789677" datatype="html">
+        <source>Geburtsdatum</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5689551467748707111" datatype="html">
+        <source>Private E-Mail-Adresse</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7470790355372814436" datatype="html">
+        <source>Diese E-Mail-Adresse wird ausschliesslich dazu verwendet, um Ihnen persönliche Informationen und Dokumente zum gemeldeten Ereignis zuzustellen. Mit der Erfassung Ihrer E-Mail-Adresse erklären Sie sich damit einverstanden.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/personal-data/personal-data.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5435257427899563208" datatype="html">
+        <source>Sind Sie die betroffene Person?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/reporter-info/reporter-info.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4508815744600714743" datatype="html">
+        <source>Erfasser*in der Meldung</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/reporter-info/reporter-info.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6432766951242029591" datatype="html">
+        <source>Ihre E-Mail-Adresse</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/reporter-info/reporter-info.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7555231632922434645" datatype="html">
+        <source>Ihre Telefonnummer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/document/section/reporter-info/reporter-info.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3334787427272808692" datatype="html">
+        <source>Möchten Sie ein Ereignis erfassen oder nur Dokumente übermitteln?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/entry-type-selection/entry-type-selection.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1637217796012818922" datatype="html">
+        <source>Ereignis erfassen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/entry-type-selection/entry-type-selection.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6832913746237767313" datatype="html">
+        <source>Nur Dokumente übermitteln</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/entry-type-selection/entry-type-selection.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1936627991089795657" datatype="html">
+        <source>Bitte wählen Sie Ihren Submandanten</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/subtenant-selection/subtenant-selection.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8990785034302728223" datatype="html">
+        <source>Grossansicht</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file-preview/file-viewer-portal/file-viewer-portal.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2590295681509395485" datatype="html">
+        <source>Schliessen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file-preview/file-viewer-portal/file-viewer-portal.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="985198658249681853" datatype="html">
+        <source>Überzählige Datei &quot;<x id="PH" equiv-text="file.name"/>&quot; wird ignoriert</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2676942250164429437" datatype="html">
+        <source>Es können maximal <x id="PH" equiv-text="maxCount"/> Dateien hochgeladen werden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6627248702711628657" datatype="html">
+        <source>Datei &quot;<x id="PH" equiv-text="file.name"/>&quot; ist leer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/file/abstract-upload.directive.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="527943327439303826" datatype="html">
+        <source>Datei auswählen oder hineinziehen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/form-upload/form-upload.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6050207453634070555" datatype="html">
+        <source>Datei auswählen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/for-gui-library/form-upload/form-upload.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4550958265168690830" datatype="html">
+        <source>Logo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/app-header/app-header.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5001415364871292625" datatype="html">
+        <source>Die Sprache kann nur ganz zu Beginn ausgewählt werden.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/app-header/language-switch/language-switch.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5045578182646156605" datatype="html">
+        <source>Bei Ihrem Zugriff ist ein Fehler passiert.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/service/access-guard.service.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="72066750467909645" datatype="html">
+        <source>Ungültige Kombination von Query-Parametern.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/service/app-state.service.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/service/app-state.service.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
